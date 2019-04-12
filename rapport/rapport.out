@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Fonctionnement g\351n\351ral de l'application}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Principe et r\350gles du Mastermind}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Description de l'application}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Architecture de l'application}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Le menu}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Le Jeu Mastermind}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Grille et boutons}{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Interaction avec le joueur et d\351roulement de la partie}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Fin de la partie}{subsection.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.3}{\311cran Gagn\351}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.4}{Liste des scores}{section.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Cas de la persistance de donn\351es}{subsection.2.4}% 12
+\BOOKMARK [1][-]{section.3}{Points d\351licats et am\351liorations possibles}{}% 13
+\BOOKMARK [2][-]{subsection.3.1}{Points d\351licats}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.2}{Am\351liorations possibles du programme}{section.3}% 15
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 16

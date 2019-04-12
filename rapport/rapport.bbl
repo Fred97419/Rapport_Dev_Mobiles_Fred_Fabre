@@ -1,0 +1,76 @@
+\begin{thebibliography}{10}
+
+\bibitem{addsubViewIOS}
+addsubview - uiview | apple developer documentation.
+\newblock
+  \url{https://developer.apple.com/documentation/uikit/uiview/1622616-addsubview}.
+
+\bibitem{AndroidDOc}
+Android developers.
+\newblock \url{https://developer.android.com/docs}.
+
+\bibitem{Appledoc}
+Apple developer documentation.
+\newblock \url{https://developer.apple.com/documentation}.
+
+\bibitem{chronometerAndroid}
+Chronometer | android developers.
+\newblock
+  \url{https://developer.android.com/reference/android/widget/Chronometer/}.
+
+\bibitem{database}
+Save data using sqlite.
+\newblock \url{https://developer.android.com/training/data-storage/sqlite}.
+
+\bibitem{Intentandroid}
+Start another activity | android developers.
+\newblock
+  \url{https://developer.android.com/training/basics/firstapp/starting-activity}.
+
+\bibitem{roundButtonAndroid}
+How to make a round/circle button in android.
+\newblock
+  \url{https://android--code.blogspot.com/2015/01/android-round-button.html}.
+
+\bibitem{roundButtonIOS}
+How to set corner radius for uibuttons using swift.
+\newblock
+  \url{https://peterwitham.com/swift-archives/how-to-set-corner-radius-for-buttons-using-swift}.
+
+\bibitem{SegueViewController}
+Pass data between view controllers in swift - learnappmaking.com.
+\newblock
+  \url{https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/}.
+
+\bibitem{shapeAndroid}
+How to change color of drawable shapes in android - stack overflow.
+\newblock
+  \url{https://stackoverflow.com/questions/15127351/how-to-change-color-of-drawable-shapes-in-android}.
+
+\bibitem{swiftdoc}
+Swift.org - documentation.
+\newblock \url{https://swift.org/documentation}.
+
+\bibitem{tableLayoutAndroid}
+Tablelayout | android developers.
+\newblock
+  \url{https://developer.android.com/reference/android/widget/TableLayout}.
+
+\bibitem{tableLayoutAndroidprog}
+Create android tablelayout programatically.
+\newblock
+  \url{http://puneetaggarwal.in/android/android-tablelayout-programatically}.
+
+\bibitem{UIButton}
+Uibutton - uikit | apple developer documentation.
+\newblock \url{https://developer.apple.com/documentation/uikit/uibutton}.
+
+\bibitem{LIstView}
+Android list view - tutorialspoint.
+\newblock \url{https://www.tutorialspoint.com/android/android_list_view.html}.
+
+\bibitem{UITableview}
+Uitableview - uikit | apple developer documentation.
+\newblock \url{https://developer.apple.com/documentation/uikit/uitableview}.
+
+\end{thebibliography}
